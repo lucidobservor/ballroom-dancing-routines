@@ -1,3 +1,5 @@
+_For those just starting silver smooth_
+
 ### Legend
 - Timings are in parentheses
 - Brackets indicate the video ID for the figure in the [Smooth Tutorial Videos](https://drive.google.com/drive/folders/110kbnV_6VQ6RcOZMEzSdXmG-WJdYvz78?fbclid=IwAR0Pmk-Q_KS2I6-_s5oCFf8LB9XVcN54SD1wHGvT6hpwOuxw5ZOs17tigpk)
