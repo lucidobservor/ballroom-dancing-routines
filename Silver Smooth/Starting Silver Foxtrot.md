@@ -25,7 +25,7 @@ Expect one competition round to involve running through this routine twice throu
 	- Ends in PP facing DW of new short side 
 
 ##### Short Side
-5. Passing Twinkles ("Flip flops") (SQQ x 4)
+5. Flip Flops (SQQ x 4)
 	- Over the course of four measures, turns 90 degrees left. So you start in PP facing DW of the short side, and end in open flip flop position (leader on left) facing DW of new long side
 
 ##### Long Side

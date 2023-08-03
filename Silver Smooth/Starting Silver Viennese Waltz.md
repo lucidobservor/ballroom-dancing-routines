@@ -21,7 +21,7 @@ To make this a Smooth routine, replace one of your long sides with the following
 	- Leader ends facing DW, frame opens a bit 
 3. Underarm Turn Left
 	- Follower will step directly towards center, while turning left (3 step turn)
-	- Leader will take three _tiny_ steps (left-> right->forward left) in order to lead the follower's movement without moving much themself
+	- Leader will take a single small step (left) in order to lead the follower's movement without moving much themself
 	- Ends in open one hand hold, leader facing and follower backing somewhere between DC and Center
 4. Step hover into Butterfly position
 	- Follower takes single step on 1 towards center with left foot
