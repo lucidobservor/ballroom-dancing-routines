@@ -1,5 +1,4 @@
 _For those just starting silver smooth_
-
 ### Legend
 - By default, each figure is assumed to take 1 measure of music. Where this isn't the case, it will be noted in parentheses.
 - By default, every measure will have both leader and follower taking steps on (1-2-3). Where this isn't the case, the timings will generally be noted in bullet points below.
@@ -12,7 +11,7 @@ _For those just starting silver smooth_
 _(Begin start of a long side, facing wall, leader on right, weight on outer leg)_
 - Step inward to patty cake hands
 	- One step, tranfering weight to inner leg
-- Explosion!
+- [Explosion](https://www.youtube.com/watch?v=46CBGnr4uZs&t=363s)
 - Twinkle Connection
 	- End in (somewhat open) promenade facing DC
 - Separate out to open butterfly position
@@ -39,8 +38,11 @@ _(Begin start of a long side, facing wall, leader on right, weight on outer leg)
 	- End leader backing LOD
 - Open Impetus
 	- End in PP facing DC
-- Weave from Promenade
+- [Progressive Passing Twinkles](https://www.youtube.com/watch?v=46CBGnr4uZs&t=85s) (3 measures)
+	- Ends OP facing DW
+- Twinkle Connection **OR** [Contra Check](https://www.youtube.com/watch?v=46CBGnr4uZs&t=259s)
 - Open right turn with Underarm Turn [W S3]
+	- Second measure has a chasse (leader) or four step turn (follower), so the count is 1-2&3-
 - Twinkle Connection
 
 ##### Short Side 2

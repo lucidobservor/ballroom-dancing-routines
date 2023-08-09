@@ -1,5 +1,4 @@
 _For those just starting silver smooth_
-
 ### Legend
 - By default, each figure is assumed to take 1 measure of music. Where this isn't the case, it will be noted in parentheses.
 - By default, every measure will have both leader and follower taking steps on (1-2-3). Where this isn't the case, the timings will be noted in bullet points below.
