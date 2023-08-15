@@ -14,7 +14,7 @@ Expect one competition round to involve running through this routine twice throu
 ##### Long Side
 1. [Feather Step](https://www.youtube.com/watch?v=U4EbBv9b7N8) (SQQ)
 	- Ends with leader facing DC, feet OP in CBMP, weight on right foot
-2. Open Reverse Turn / Open Left Box [FT S1] (SQQ SQQ)
+2. [Open Left Box](https://www.youtube.com/watch?v=j-zui2b2ohA&t=10s) (SQQ SQQ)
 	- On the second measure, have leader release right hand in order to separate into open handhold position by the end
 	- Ends with leader facing DW, feet OP in CBMP, weight on right foot 
 3. Grapevines in open hand hold (QQQQ QQQQ)
@@ -49,7 +49,7 @@ Expect one competition round to involve running through this routine twice throu
 	- Ends in PP facing DW of new short side
 
 ##### Short Side
-10. Passing Twinkles ("Flip flops") (SQQ x 4)
+10. Flip flops (SQQ x 4)
 	- Over the course of four measures, turns 90 degrees left. So you start in PP facing DW of the short side, and end in open flip flop position (leader on left) facing DW of new long side
 
 ##### Long Side
@@ -68,11 +68,12 @@ The preceding figure is the Twinkle Connection at the end of the first long side
 
 ##### Short Side
 1. Alt UA Combo [WALTZ S15] (SQQ SQ&Q)
-	- This is a waltz video, but it works for Foxtrot if you replace each 1-2-3 with a S-Q-Q
+	- This is a waltz video, but it works for Foxtrot if you replace each 1-2-3 with a S-Q-Q (or SQ&Q for the [Underarm Turn](https://www.youtube.com/watch?v=j-zui2b2ohA&t=129s))
 	- The video for this figure includes the preceding Twinkle Connection
 	- The video ends with only a one hand connection, you'll want to be holding both hands instead
-2. Check and Develope [WALTZ S5] (S->Hold for the rest of the measure)
+2. Check and Develope [WALTZ S5] (SS)
 	- The video actually demonstrates the following two figures as part of the combo
 3. Hover Corte (SQQ)
-4. Twinkle Connection (SQQ)
+   - ALT: Extend this into a two measure [Hover](https://www.youtube.com/watch?v=j-zui2b2ohA&t=313s)
+4. Open Impetus (SQQ)
 	- Where the video ends this combo in PP facing DC, you want to underturn it so it ends PP facing DC of the _new_ LOD
