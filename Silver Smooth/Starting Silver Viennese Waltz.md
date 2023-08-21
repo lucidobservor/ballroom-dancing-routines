@@ -34,6 +34,7 @@ To make this a Smooth routine, replace one of your long sides with the following
 	- Follower is doing a four step turn to the right
 	- End by taking open two hand hold on count 6, leader facing and follower backing DC
 8. Check and Develope
-9. Close change to the left
-	- Ends in closed frame, with the leader backing DW 
--> Proceed into Natural Turns around the short side, starting with the leader going backwards half
+9. Turn to closed and prep (2 measures) 
+	- Leader takes one step back on 1, rises in place while turning follower to closed, then takes a prep step on 6
+	- Follower takes baby steps to turn around (left) in place to get into closed, then takes a prep step
+-> Proceed into Natural Turns around the short side

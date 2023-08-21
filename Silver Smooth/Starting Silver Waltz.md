@@ -48,4 +48,5 @@ _(Begin start of a long side, facing wall, leader on right, weight on outer leg)
 ##### Short Side 2
 - Flip flops (4 measures) [W S13]
 - UAT to the left into almost patty cake
+	- Leader does a chasse while follower does a four step turn (1-2&3-)
 - --> Beginning explosions (can choose one or two)
