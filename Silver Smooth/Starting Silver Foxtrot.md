@@ -1,7 +1,6 @@
 _For those just starting silver smooth_
 ### Legend
 - Timings are in parentheses
-- Brackets indicate the video ID for the figure in the [Smooth Tutorial Videos](https://drive.google.com/drive/folders/110kbnV_6VQ6RcOZMEzSdXmG-WJdYvz78?fbclid=IwAR0Pmk-Q_KS2I6-_s5oCFf8LB9XVcN54SD1wHGvT6hpwOuxw5ZOs17tigpk)
 - Hyperlinks go to Youtube videos for those Standard figures
 ---
 
@@ -23,11 +22,9 @@ Expect one competition round to involve running through this routine twice throu
 	- Ends in PP facing DW of new short side 
 
 ##### Short Side
-5. Alt UA Combo [WALTZ S15] (SQQ SQ&Q)
-	- This is a waltz video, but it works for Foxtrot if you replace each 1-2-3 with a S-Q-Q (or SQ&Q for the [Underarm Turn](https://www.youtube.com/watch?v=j-zui2b2ohA&t=129s))
-	- The video for this figure includes the preceding Twinkle Connection
-	- The video ends with only a one hand connection, you'll want to be holding both hands instead
-6. Check and Develope [WALTZ S5] (SS)
+5. Alternating Underarm Combo (SQQ SQ&Q)
+	- Leader goes accross follower under left hand connection, then leads [Underarm Turn](https://www.youtube.com/watch?v=j-zui2b2ohA&t=129s))
+6. Check and Develope (SS)
 	- Check in the direction of DC 
 7. Hover Corte (SQQ)
    - Ends backing LOD
@@ -37,7 +34,7 @@ Expect one competition round to involve running through this routine twice throu
 ##### Long Side
 9. Open Impetus (SQQ)
 	- Ends in PP facing DC 
-10. Weave from Promenade [FT S4] (SQQ QQQQ)
+10. Weave from Promenade (SQQ QQQQ)
 	- Ends with leader facing DW, feet OP in CBMP  
 11. [Hover Telemark](https://www.youtube.com/watch?v=fTa_-wD5-eE) (12-4, *NOT* SQQ)
 	- Ends with leader facing DC, as if you just took the prep step for the first Feather Step 
