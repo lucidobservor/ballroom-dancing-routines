@@ -2,14 +2,13 @@ _For those just starting silver smooth_
 ### Legend
 - By default, each figure is assumed to take 1 measure of music. Where this isn't the case, it will be noted in parentheses.
 - By default, every measure will have both leader and follower taking steps on (1-2-3). Where this isn't the case, the timings will be noted in bullet points below.
-- Brackets indicate the video ID for the figure in the [Smooth Tutorial Videos](https://drive.google.com/drive/folders/110kbnV_6VQ6RcOZMEzSdXmG-WJdYvz78?fbclid=IwAR0Pmk-Q_KS2I6-_s5oCFf8LB9XVcN54SD1wHGvT6hpwOuxw5ZOs17tigpk)
 ---
 
 ### Routine
 
 Your base routine will be the Standard Viennese Waltz routine. That is, do Reverse Turns on the long sides and Natural Turns around the short sides, with Close Changes in between.
 
-To make this a Smooth routine, replace one of your long sides with the following one. The majority of this long side is covered by the figure video [VW S8 - Adv Hand to Hand], but what's written below breaks it down a bit further.
+To make this a Smooth routine, replace one of your long sides with the following one.
 
 ##### Long Side
 - Assume you have just come around the short side using Natural Turns. The leader has just done the forward half of the Natural Turn, and is now backing DC of the new long side
